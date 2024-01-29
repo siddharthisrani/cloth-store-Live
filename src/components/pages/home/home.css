@@ -418,3 +418,14 @@ opacity: 1
  background-image: linear-gradient(#fffefd, #fff2da);
 }
 
+@media screen and (max-width: 600px){
+  .main1 {
+  
+    display: grid;
+    grid-template-columns: auto;
+    margin-top: 10%;
+    gap: 5rem;
+   /* background-image: url(../home/images/sssurf.png); */
+   background-image: linear-gradient(#fffefd, #fff2da);
+  }
+}
