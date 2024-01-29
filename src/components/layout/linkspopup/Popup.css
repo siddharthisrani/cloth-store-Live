@@ -1,0 +1,59 @@
+
+.icon{
+    color: white;
+}
+
+
+.popup-links{
+
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+margin-top: -190px;
+
+
+
+}
+
+
+
+.hamburger{
+
+    position: absolute;
+    top:30px;
+    right: 5%;
+    z-index: 100;
+    
+    
+    }
+    
+    .hide{
+    
+    display: none;
+    
+    }
+
+.popup-container .popup-links li {
+
+    display: inline;
+    
+    margin: 8px;
+    margin-left: 3rem;
+    font-size: 3rem;
+
+}
+
+.popup-container{
+
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 600px;
+    position: absolute;
+    top:0;
+    right:1% ;
+
+}
