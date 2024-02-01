@@ -433,7 +433,7 @@ opacity: 1
 @media screen and (max-width: 375px){
 
   .slider-btn{
-    top:50%;
+    top:60%;
   }
   .main1 {
   
@@ -509,7 +509,7 @@ clip-path: circle(400px at 50% 50%)
 }
 
 
-@media only screen  and (max-width: 435px)and (min-width:376px){
+@media only screen  and (max-width: 475px)and (min-width:376px){
   .main1 {
   
     display: grid;
@@ -579,5 +579,8 @@ clip-path: circle(400px at 50% 50%)
 
   .main1 button{
     margin-top:30% !important;
+  }
+  .slider-btn{
+    top:60%;
   }
 }
