@@ -362,7 +362,7 @@ export default function AboutUs() {
           <div id="third_cards">
             <div>
               <img style={{width:"100px"}} src={jourimg1} alt="" />
-              <h2>End to End Solutions and Services Guaranteed</h2>
+              <h2>Siddharth Israni (Leader)</h2>
               <p>
                 Fusce nec tellus sed augue semper porta. Mauris massa.
                 Vestibulum lacinia arcu eget nulla. per inceptos himenaeos.
@@ -370,7 +370,7 @@ export default function AboutUs() {
             </div>
             <div>
             <img style={{width:"100px"}} src={jourimg1} alt="" />
-              <h2>Ahead of The Curve We Future-proof Your IT</h2>
+              <h2>Shivansh Chourasiya</h2>
               <p>
                 Fusce nec tellus sed augue semper porta. Mauris massa.
                 Vestibulum lacinia arcu eget nulla. per inceptos himenaeos.
@@ -378,7 +378,7 @@ export default function AboutUs() {
             </div>
             <div>
             <img style={{width:"100px"}} src={jourimg1} alt="" />
-              <h2>Experience Certainty Every Project Executed Successful</h2>
+              <h2>Amit Sharma</h2>
               <p>
                 Fusce nec tellus sed augue semper porta. Mauris massa.
                 Vestibulum lacinia arcu eget nulla. per inceptos himenaeos.
